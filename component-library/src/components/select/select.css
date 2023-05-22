@@ -1,0 +1,17 @@
+.select- {
+    border: 2px solid #F6F7F8;
+    border-radius: 5px;
+    padding: 8px 100px 8px 10px;
+}
+.filled {
+    border: 2px solid #F6F7F8;
+    background-color: #f6f7f8;
+    border-radius: 5px;
+    padding: 8px 100px 8px 10px;
+}
+.small {
+    padding: 4px 50px 4px 10px;
+}
+.large {
+    padding: 12px 100px 12px 10px;
+}

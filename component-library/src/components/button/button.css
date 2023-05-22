@@ -1,0 +1,117 @@
+button {
+    border-radius: 2px;
+    padding: 20px 25px;
+}
+.button-large {
+    padding: 30px 35px;
+    
+}
+.button-small {
+    padding: 5px 5px;
+}
+
+.button-primary {
+    background-color: rgba(51, 160, 255, 1);
+    color: white;
+    border: 2px solid rgba(51, 160, 255, 1);;
+}
+.button-danger {
+    background-color: rgba(255, 72, 88, 1);
+    color: white;
+    border: 2px solid rgba(255, 72, 88, 1);
+}
+.button-success {
+    background-color: rgba(10, 208, 10, 1);
+    color: white;
+    border: 2px solid rgba(10, 208, 10, 1);
+}
+.button-warning {
+    background-color: rgba(255, 198, 0, 1);
+    color: white;
+    border: 2px solid rgba(255, 198, 0, 1);
+}
+.button- {
+    background-color: #22262A;
+    color: white;
+    border: 2px solid #22262A;
+}
+.button-primary:hover {
+    background-color: #2E90E5;
+    border: #2E90E5;
+    cursor: pointer;
+}
+.button-danger:hover {
+    background-color: #F53848;
+    cursor: pointer;
+    border: #F53848;
+}
+.button-success:hover {
+    background-color: #07C107;
+    cursor: pointer;
+    border: #07C107;
+}
+.button-warning:hover {
+    background-color: #EBB600;
+    cursor: pointer;
+    border: #EBB600;
+}
+.button-:hover {
+    background-color: #13161A;
+    cursor: pointer;
+    border: #13161A;
+}
+.button-primary-outline {
+    background-color: white;
+    color: rgba(51, 160, 255, 1);
+    pointer-events:none
+}
+.button-danger-outline {
+    background-color: white;
+    color: rgba(255, 72, 88, 1);
+    pointer-events:none
+}
+.button-success-outline {
+    background-color: white;
+    color:rgba(10, 208, 10, 1);
+    pointer-events:none
+}
+.button-warning-outline {
+    background-color: white;
+    color: rgba(255, 198, 0, 1);
+    pointer-events:none
+}
+.button-outline{
+    background-color: white;
+    color: black;
+    pointer-events: none;
+}
+.button-primary-fill {
+    background-color: rgba(51, 160, 255, .2);
+    border: 0px;
+    color: rgba(51, 160, 255, 1);
+    pointer-events:none
+}
+.button-danger-fill {
+    background-color: rgba(255, 72, 88, .2);
+    border: 0px;
+    color:#FF4858;
+    pointer-events:none
+}
+.button-success-fill {
+    background-color: rgba(10, 208, 10, .2);
+    border: 0px;
+    color: rgba(10, 208, 10, 1);
+    pointer-events:none
+}
+.button-warning-fill {
+    background-color: rgba(255, 198, 0, .2);
+    border: none;
+    color: rgba(255, 198, 0, 1);
+    pointer-events:none
+}
+.button-fill{
+    background-color: rgba(0,0,0,.2);
+    color: black;
+    border: none;
+    pointer-events: none;
+}

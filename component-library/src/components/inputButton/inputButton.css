@@ -1,0 +1,25 @@
+
+Form {
+    display: inline-block;
+    height: auto;
+}
+.input-button-small {
+    border-radius: 0px 3px 3px 0px;
+    padding: 3.5px;
+    height: auto;
+    background-color: rgba(51, 160, 255, 1);
+    color: white;
+    border: 2px solid rgba(51, 160, 255, 1);
+    display: inline-block;
+    transform: translateX(-7px);
+}
+.input-button-large {
+    border-radius: 0px 3px 3px 0px;
+    padding: 12px;
+    background-color: rgba(51, 160, 255, 1);
+    color: white;
+    height: auto;
+    border: 2px solid rgba(51, 160, 255, 1);
+    display: inline-block;
+    transform: translateX(-7px);
+}
