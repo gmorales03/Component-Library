@@ -1,0 +1,32 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+h1 {
+    text-align: center;
+}
+.component-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.component-forms {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.component-select {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.component-counter {
+    display: flex;
+    flex-direction: column;
+}
+.component-checkbox {
+    display: flex;
+    flex-direction: row;
+}
