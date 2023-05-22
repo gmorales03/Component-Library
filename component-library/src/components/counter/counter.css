@@ -1,0 +1,19 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding: 5px;
+    width:fit-content;
+    background-color: #F6F7F8;
+    
+}
+.counter-button {
+    background-color: transparent;
+    padding: 6px 10px 6px 10px;
+    border: 0px;
+    color: rgba(51, 160, 255, 1);
+}
